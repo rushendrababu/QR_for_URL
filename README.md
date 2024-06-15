@@ -16,6 +16,3 @@ Run `pip install qrcode`
 <p align="center">
   <a href="output 1.png"><img src="https://user-images.githubusercontent.com/85709371/151921721-132e76c1-1604-49ad-9234-1ef3cc9ac45b.png" alt="url_qrcode"></a>
 </p>
-
-## *Author Name*
-[Vikrant](https://github.com/vikrant-v28)
